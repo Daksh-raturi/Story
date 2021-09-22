@@ -1,1 +1,2 @@
-hey there you are i chapter 3
+hey there you are in chapter 3 
+and i am learning forking and pull request
